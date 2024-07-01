@@ -15,7 +15,6 @@ const config = {
   title: 'BredenMaster',
   tagline: 'Documentación de procesos',
   favicon: 'img/BM.png',
-  noIndex: true,
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -28,7 +27,6 @@ const config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
