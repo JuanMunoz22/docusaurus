@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "npx docusaurus start",
-    "build": "npx docusaurus build",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
     "swizzle": "npx docusaurus swizzle",
     "deploy": "npx docusaurus deploy",
     "clear": "npx docusaurus clear",
