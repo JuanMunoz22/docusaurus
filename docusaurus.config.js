@@ -15,6 +15,7 @@ const config = {
   title: 'BredenMaster',
   tagline: 'Documentación de procesos',
   favicon: 'img/BM.png',
+  noIndex: true,
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
