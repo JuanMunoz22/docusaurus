@@ -94,9 +94,19 @@ Es importante mencionar que antes de realizar esta instalación no deben existir
 
     Luego de eso debemos desactivar todas las opciones.
 
-    [IMAGEN AQUI]
+    ![Animacion](https://res.cloudinary.com/dl7wpmele/image/upload/v1720015779/sophos2_stiedc.png "sophos2")
 
 7. Instalar QAD
+
+    Ya con todos los pasos anteriores listos podemos instalar QAD. Para eso en internet explorer debemos ir a la ruta http://qad-prod.bredenmaster.com:8080/qadhome/ 
+
+    Esto nos lanzara el instalador para QAD.
+    ![Animacion](https://res.cloudinary.com/dl7wpmele/image/upload/v1720016277/iQAD_jgbdlz.png "iQAD")
+
+    Para esto solo debemos seguir los pasos que nos muestre el instalador y al finalizar **no** se debe ejecutar QAD.
+
+    ![Animacion](https://res.cloudinary.com/dl7wpmele/image/upload/v1720016406/iQAD2_yu2q9i.png "iQAD2")
+
 8. Copiar Plugins
 
     Luego de la instalación de QAD debemos ir a la ruta en la cual instalamos QAD y copiar la carpeta de plugin que se puede descargar desde **[aqui](https://drive.google.com/drive/folders/17svGWDPnskGQBBwVXORy6cHN1z3BrzXw?usp=drive_link)**. 
